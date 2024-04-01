@@ -1,0 +1,19 @@
+{
+  "name": "Desain Web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass ./src/sass/main.scss ./src/css/main.css --watch",
+    "amikom": "sass ./src/sass/amikom.scss ./src/css/amikom.css --watch",
+    "becak": "sass ./src/sass/becak.scss ./src/css/becak.css --watch",
+    "aboutus": "sass ./src/sass/aboutus.scss ./src/css/aboutus.css --watch",
+    "heha": "sass ./src/sass/heha.scss ./src/css/heha.css --watch",
+    "pinus": "sass ./src/sass/pinus.scss ./src/css/pinus.css --watch",
+    "pariwisata": "sass ./src/sass/pariwisata.scss ./src/css/pariwisata.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
